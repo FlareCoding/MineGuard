@@ -1,0 +1,21 @@
+# Directories
+.vs/
+.vscode/
+build/
+dist/
+__pycache__/
+x64/
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Other
+*.DS_Store
